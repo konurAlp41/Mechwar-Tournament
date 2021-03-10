@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mechwar Tournament", "Mechwar Tournament\Mechwar Tournament.csproj", "{001E5818-3A85-41EB-951F-E303E7990E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001E5818-3A85-41EB-951F-E303E7990E06}.Debug|x86.ActiveCfg = Debug|x86
+		{001E5818-3A85-41EB-951F-E303E7990E06}.Debug|x86.Build.0 = Debug|x86
+		{001E5818-3A85-41EB-951F-E303E7990E06}.Release|x86.ActiveCfg = Release|x86
+		{001E5818-3A85-41EB-951F-E303E7990E06}.Release|x86.Build.0 = Release|x86
+		{2264B773-715E-4D5A-8748-FC887ED6A31D}.Debug|x86.ActiveCfg = Debug|x86
+		{2264B773-715E-4D5A-8748-FC887ED6A31D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

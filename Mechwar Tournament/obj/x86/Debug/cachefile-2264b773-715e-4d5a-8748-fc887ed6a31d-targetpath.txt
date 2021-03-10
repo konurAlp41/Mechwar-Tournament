@@ -1,0 +1,36 @@
+Content\Arena.xnb
+Content\Arenaice.xnb
+Content\Fight.xnb
+Content\Parameter.xnb
+Content\mainmenu.xnb
+Content\font.xnb
+Content\selecter.xnb
+Content\3.xnb
+Content\5.xnb
+Content\1.xnb
+Content\2.xnb
+Content\0.xnb
+Content\4.xnb
+Content\6.xnb
+Content\7.xnb
+Content\pressenter.xnb
+Content\parsoman.xnb
+Content\missile.xnb
+Content\arenacil.xnb
+Content\Charges.xnb
+Content\wind.xnb
+Content\kalp.xnb
+Content\fireground.xnb
+Content\iceball.xnb
+Content\echo.xnb
+Content\electroground.xnb
+Content\Electrowave.xnb
+Content\parcacik.xnb
+Content\ozelliktablosu.xnb
+Content\8.xnb
+Content\Character Selection.xnb
+Content\Character Selection.wma
+Content\Mechwar Theme.xnb
+Content\Mechwar Theme.wma
+Content\Tournament Theme.xnb
+Content\Tournament Theme.wma

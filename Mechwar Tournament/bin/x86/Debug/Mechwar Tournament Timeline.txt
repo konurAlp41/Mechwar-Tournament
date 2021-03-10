@@ -1,0 +1,19 @@
+5. Mechwar: Runo = Runo'nun bütün geçmiþi ve en sonunda nasýl turnuvaya ulaþtýðý
+Oyundaki robotlar: (R)
+
+1. Mechwar Tournament = Mechwar bir robot dövüþü turnuvasý düzenler. Big Guy turnuvayý çeþitli adaletsiz koþullarla kazanarak kendisini durdurabilecek bütün robotlarý yok eder (Fullspeed ve Roboghost). Runo kaçar, Electro Mechwar'a katýlýr.
+Oyundaki robotlar: (IB), (FB), (FS), (BG), (MH), (E), (RG), (R)
+Tür: Dövüþ
+
+2. Mechwar: Crime = Mechwar suç iþler. Yeniden üretilen Roboghost onu durdurmaya çalýþýr ama baþaramaz.
+Oyundaki robotlar: (BG), (MH), (E), RG
+Tür: Side Scrolling Puzzle / Shooter
+
+4. Mechwar: Bot Wars = Icebot ve Firebot en iyiyi belirlemek için kýyasýya bir savaþa girerler. Bu esnada Runo'yu rahatsýz ederler ve Runo ikisini de yok eder.
+Oyundaki robotlar: (IB), (FB), R
+
+3. Mechwar: Revenge = Tim Brown'ýn kardeþi Fullspeed'i tamir etmeyi baþarmýþtýr. Polis, Roboghost ve Runo ile iþbirliði yaparak Mechwar'u yener ve intikamýný alýr.
+Oyundaki robotlar: (FS), BG, MH, E, RG, R
+Tür: Side Scrolling Shooter
+
+IB: 2(2), FB: 2(2), FS: 2(2), BG: 3(2), MH: 3(2), E: 3(2), RG: 3(1), R: 4(2)

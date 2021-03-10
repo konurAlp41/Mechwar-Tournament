@@ -1,0 +1,46 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Fight.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Arenaice.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Arena.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Mechwar Tournament.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Mechwar Tournament.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\obj\x86\Debug\Mechwar Tournament.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\obj\x86\Debug\Mechwar Tournament.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Parameter.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\mainmenu.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\font.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\selecter.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\0.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\7.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\3.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\4.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\2.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\1.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\6.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\5.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\pressenter.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\parsoman.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\missile.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\arenacil.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\wind.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Charges.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\kalp.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\fireground.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\iceball.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\echo.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\electroground.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Electrowave.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\parcacik.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\ozelliktablosu.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\8.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Tournament Theme.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Mechwar Theme.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Character Selection.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Character Selection.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Tournament Theme.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Mechwar Theme.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Mechwar Tournament.exe.manifest
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Mechwar Tournament.application
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\obj\x86\Debug\Mechwar Tournament.exe.manifest
+C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\obj\x86\Debug\Mechwar Tournament.application

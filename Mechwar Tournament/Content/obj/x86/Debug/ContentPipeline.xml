@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arena.png</Source>
+      <Name>Arena</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Arena.xnb</Output>
+      <Time>2016-02-01T13:32:56.5767057+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Arenaice.png</Source>
+      <Name>Arenaice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Arenaice.xnb</Output>
+      <Time>2016-01-31T17:32:32.5551037+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fight.png</Source>
+      <Name>Fight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Fight.xnb</Output>
+      <Time>2016-01-31T14:43:29.0887118+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Parameter.png</Source>
+      <Name>Parameter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Parameter.xnb</Output>
+      <Time>2016-01-31T19:56:09.9038624+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenu.png</Source>
+      <Name>mainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\mainmenu.xnb</Output>
+      <Time>2016-02-01T21:46:17.3198895+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2016-01-29T15:50:09.4603788+02:00</Time>
+    </Item>
+    <Item>
+      <Source>selecter.png</Source>
+      <Name>selecter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\selecter.xnb</Output>
+      <Time>2016-02-13T16:41:27.751832+02:00</Time>
+    </Item>
+    <Item>
+      <Source>3.png</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2016-02-07T15:56:11.751322+02:00</Time>
+    </Item>
+    <Item>
+      <Source>5.png</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2016-02-04T17:44:39.9998316+02:00</Time>
+    </Item>
+    <Item>
+      <Source>1.png</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2016-02-04T17:41:02.8286383+02:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2016-02-04T17:42:04.4808597+02:00</Time>
+    </Item>
+    <Item>
+      <Source>0.png</Source>
+      <Name>0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\0.xnb</Output>
+      <Time>2016-02-04T17:40:36.4653928+02:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2016-02-04T17:43:31.4188587+02:00</Time>
+    </Item>
+    <Item>
+      <Source>6.png</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\6.xnb</Output>
+      <Time>2016-02-04T17:46:03.6235899+02:00</Time>
+    </Item>
+    <Item>
+      <Source>7.png</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\7.xnb</Output>
+      <Time>2016-02-04T17:48:06.4617258+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pressenter.png</Source>
+      <Name>pressenter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\pressenter.xnb</Output>
+      <Time>2016-01-29T16:12:35.7352208+02:00</Time>
+    </Item>
+    <Item>
+      <Source>parsoman.png</Source>
+      <Name>parsoman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\parsoman.xnb</Output>
+      <Time>2016-01-29T20:48:43.2644039+02:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.png</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2016-02-01T18:41:21.6914214+02:00</Time>
+    </Item>
+    <Item>
+      <Source>arenacil.png</Source>
+      <Name>arenacil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\arenacil.xnb</Output>
+      <Time>2016-02-01T13:39:37.061377+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Charges.png</Source>
+      <Name>Charges</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Charges.xnb</Output>
+      <Time>2016-02-01T20:01:31.2361115+02:00</Time>
+    </Item>
+    <Item>
+      <Source>wind.png</Source>
+      <Name>wind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\wind.xnb</Output>
+      <Time>2016-02-01T20:41:45.2686868+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kalp.png</Source>
+      <Name>kalp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\kalp.xnb</Output>
+      <Time>2016-02-02T12:02:49.445466+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fireground.png</Source>
+      <Name>fireground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\fireground.xnb</Output>
+      <Time>2016-02-02T17:12:48.2206631+02:00</Time>
+    </Item>
+    <Item>
+      <Source>iceball.png</Source>
+      <Name>iceball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\iceball.xnb</Output>
+      <Time>2016-02-02T20:39:51.1299221+02:00</Time>
+    </Item>
+    <Item>
+      <Source>echo.png</Source>
+      <Name>echo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\echo.xnb</Output>
+      <Time>2016-02-03T11:04:19.344491+02:00</Time>
+    </Item>
+    <Item>
+      <Source>electroground.png</Source>
+      <Name>electroground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\electroground.xnb</Output>
+      <Time>2016-02-03T17:04:54.4999808+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Electrowave.png</Source>
+      <Name>Electrowave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Electrowave.xnb</Output>
+      <Time>2016-02-04T15:53:47.0270559+02:00</Time>
+    </Item>
+    <Item>
+      <Source>parcacik.png</Source>
+      <Name>parcacik</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\parcacik.xnb</Output>
+      <Time>2016-02-04T21:39:10.7288615+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ozelliktablosu.png</Source>
+      <Name>ozelliktablosu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\ozelliktablosu.xnb</Output>
+      <Time>2016-02-04T22:15:10.5255485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>8.png</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\8.xnb</Output>
+      <Time>2016-02-07T15:17:50.0994605+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Character Selection.mp3</Source>
+      <Name>Character Selection</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Character Selection.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Character Selection.wma</Extra>
+      <Time>2016-02-13T16:01:06.0872453+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Mechwar Theme.mp3</Source>
+      <Name>Mechwar Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Mechwar Theme.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Mechwar Theme.wma</Extra>
+      <Time>2016-02-13T16:01:06.0902493+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tournament Theme.mp3</Source>
+      <Name>Tournament Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Tournament Theme.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\Tournament Theme.wma</Extra>
+      <Time>2016-02-13T16:01:06.0942521+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Mechwar Tournament\Mechwar Tournament\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-03T06:45:18.292922+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
